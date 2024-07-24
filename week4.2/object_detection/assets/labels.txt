@@ -1,0 +1,2 @@
+0 rose_top
+1 rose_size
